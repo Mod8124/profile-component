@@ -119,7 +119,7 @@ export default {
   background-position: -150px -35px, 140px 110%;
 }
 
-@media screen and (min-width:1400px){
+@media screen and (min-width:1400px) and (max-width: 1599px) {
    #app {
        background-size: 70%, 70% ;
        background-position:-350px -450px, 700px 400px;
@@ -127,7 +127,7 @@ export default {
   
 }
 
-@media screen and (min-width:1400px){
+@media screen and (min-width:1600px){
    #app {
        background-size: 70%, 70% ;
        background-position:-450px -650px, 900px 400px;
