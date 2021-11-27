@@ -138,12 +138,13 @@
 .card {
     height: 42vh;
     width: 90%;
+    margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
     background-color:#fff;
     overflow: hidden;
     border-radius: 25px;
-    max-width: 380px;
+    max-width: 350px;
 }
 
 .attribution {
